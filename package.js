@@ -1,7 +1,10 @@
+
 Package.describe({
-    name: 'hangingprotocols',
-    summary: 'Support functions for using DICOM Hanging Protocols',
-    version: '0.0.1'
+  name: 'hangingprotocols',
+  version: '0.0.1',
+  summary: 'Support functions for using DICOM Hanging Protocols',
+  git: 'https://github.com/lancelotsmith/hangingprotocols',
+  documentation: 'README.md'
 });
 
 Package.onUse(function(api) {
