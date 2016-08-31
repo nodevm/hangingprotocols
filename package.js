@@ -1,6 +1,6 @@
 
 Package.describe({
-  name: 'hangingprotocols',
+  name: 'lancelotsmith:hangingprotocols',
   version: '0.0.1',
   summary: 'Support functions for using DICOM Hanging Protocols',
   git: 'https://github.com/lancelotsmith/hangingprotocols',
